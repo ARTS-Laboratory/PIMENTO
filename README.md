@@ -4,7 +4,7 @@
 #### Date: 07/18/2023
 
 ## Model Architecture
-![PIMENTO.png](attachment:PIMENTO.png)
+./(attachment:PIMENTO.png)
 
 ## Running Instructions
 This model will be run by the 'run_model.py' file.
