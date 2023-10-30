@@ -1,5 +1,5 @@
 # PIMENTO
-## Physics-Informed Machine LEarning non-stationary Temporal Forecasting
+## Physics-Informed Machine LEarning for non-stationary Temporal Forecasting
 ### Developed by: Puja Chowdhury
 #### Date: 07/18/2023
 
